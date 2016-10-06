@@ -9,4 +9,5 @@
 * [Siete dimensiones  del pensamiento disruptivo](siete-dimensiones--del-pensamiento-disruptivo.md)
 * [Cambios Constantes de Facebook-Posible Adyacente](cambios-constantes-de-facebook-posible-adyacente.md)
 * [Experiencia total del producto Facebook](experiencia-total-del-producto-facebook.md)
+* [Referencias Bibliograficas](referencias-bibliograficas.md)
 
